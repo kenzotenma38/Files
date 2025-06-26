@@ -1,0 +1,14 @@
+C:\Users\A\Desktop\VS\Filemgmt\Filemgmt\bin\Debug\net8.0\Filemgmt.exe
+C:\Users\A\Desktop\VS\Filemgmt\Filemgmt\bin\Debug\net8.0\Filemgmt.deps.json
+C:\Users\A\Desktop\VS\Filemgmt\Filemgmt\bin\Debug\net8.0\Filemgmt.runtimeconfig.json
+C:\Users\A\Desktop\VS\Filemgmt\Filemgmt\bin\Debug\net8.0\Filemgmt.dll
+C:\Users\A\Desktop\VS\Filemgmt\Filemgmt\bin\Debug\net8.0\Filemgmt.pdb
+C:\Users\A\Desktop\VS\Filemgmt\Filemgmt\obj\Debug\net8.0\Filemgmt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A\Desktop\VS\Filemgmt\Filemgmt\obj\Debug\net8.0\Filemgmt.AssemblyInfoInputs.cache
+C:\Users\A\Desktop\VS\Filemgmt\Filemgmt\obj\Debug\net8.0\Filemgmt.AssemblyInfo.cs
+C:\Users\A\Desktop\VS\Filemgmt\Filemgmt\obj\Debug\net8.0\Filemgmt.csproj.CoreCompileInputs.cache
+C:\Users\A\Desktop\VS\Filemgmt\Filemgmt\obj\Debug\net8.0\Filemgmt.dll
+C:\Users\A\Desktop\VS\Filemgmt\Filemgmt\obj\Debug\net8.0\refint\Filemgmt.dll
+C:\Users\A\Desktop\VS\Filemgmt\Filemgmt\obj\Debug\net8.0\Filemgmt.pdb
+C:\Users\A\Desktop\VS\Filemgmt\Filemgmt\obj\Debug\net8.0\Filemgmt.genruntimeconfig.cache
+C:\Users\A\Desktop\VS\Filemgmt\Filemgmt\obj\Debug\net8.0\ref\Filemgmt.dll
